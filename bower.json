@@ -1,0 +1,20 @@
+{
+  "name": "FSS",
+  "description": "",
+  "main": "",
+  "authors": [
+    "silent <13438082119@163.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
